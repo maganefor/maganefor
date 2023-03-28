@@ -1,0 +1,2 @@
+# maganefor
+ csgo binds
